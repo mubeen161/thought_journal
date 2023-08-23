@@ -1,7 +1,7 @@
 streamlit
 datetime
 textblob
-wordcloud=3.6
+wordcloud==1.8.1 
 matplotlib
 pandas
 numpy
