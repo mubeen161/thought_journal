@@ -1,6 +1,10 @@
 streamlit
 datetime
 textblob
+wordcoloud
 matplotlib
 pandas
-wordcoloud
+numpy
+seaborn
+transformers
+torch
