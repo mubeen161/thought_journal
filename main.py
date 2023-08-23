@@ -3,8 +3,8 @@
 import streamlit as st
 st.set_option('deprecation.showPyplotGlobalUse', False)
 from datetime import datetime
-import json
-import os
+# import json
+# import os
 from textblob import TextBlob
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -69,7 +69,7 @@ def main():
 # Center-aligned title
     st.markdown(
     "<div style='text-align: center;'>"
-    "<h1>Your Personal Mental Health Journaling Companion</h1>"
+    "<h1>             Your Personal Mental Health Journaling Companion</h1>"
     "</div>",
     unsafe_allow_html=True
 )
