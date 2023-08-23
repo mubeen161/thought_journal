@@ -1,6 +1,6 @@
 streamlit
 datetime
 textblob
-matplotlib.pyplot
+matplotlib
 pandas
 wordcoloud
