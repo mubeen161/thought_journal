@@ -1,0 +1,6 @@
+streamlit
+datetime
+textblob
+matplotlib.pyplot
+pandas
+wordcoloud
