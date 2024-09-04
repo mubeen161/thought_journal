@@ -1,7 +1,7 @@
 
 
 import streamlit as st
-st.set_option('deprecation.showPyplotGlobalUse', False)
+# st.set_option('deprecation.showPyplotGlobalUse', False)
 from datetime import datetime
 # import json
 # import os
